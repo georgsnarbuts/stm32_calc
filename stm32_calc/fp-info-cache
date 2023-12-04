@@ -1,4 +1,4 @@
-23154488818806291
+23156190510791275
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95703,6 +95703,13 @@ georgs_lib
 0
 12
 12
+georgs_lib
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
 georgs_lib
 SK12D07VG4_slider
 
