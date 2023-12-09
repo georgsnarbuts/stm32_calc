@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "georgs_lib")(type "KiCad")(uri "C:/Users/geona/Desktop/stm32_calc/stm32_calc/libraries/georgs_lib.pretty")(options "")(descr ""))
+)

@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "stm32_calc.step",
+      "step": "stm32_calc_wgraphics.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
