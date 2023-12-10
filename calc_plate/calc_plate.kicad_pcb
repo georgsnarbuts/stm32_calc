@@ -1788,9 +1788,6 @@
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp fe6e27e3-1194-4fb1-96be-2bb786041eec))
   (gr_line (start 82.415 57.525) (end 82.415 70.525)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp fecbe347-2b8a-4932-843e-199b20b87114))
-  (gr_text "JLCJLCJLCJLC" (at 97.14 75.5) (layer "B.SilkS") (tstamp f7d009b2-b8ec-41bf-b165-e0272d632bdc)
-    (effects (font (size 0.5 0.5) (thickness 0.125)) (justify left bottom mirror))
-  )
 
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 8f50b58e-7847-424b-8b1a-04a4bb8c22cc) (hatch edge 0.5)
     (connect_pads (clearance 0.5))

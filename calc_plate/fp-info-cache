@@ -1,4 +1,4 @@
-23171508356906891
+23173210514084716
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95696,154 +95696,161 @@ varistor
 0
 2
 2
-georgs_lib
+libraries
 7seg_sr410361n
 
 
 0
 12
 12
-georgs_lib
+libraries
 HRO-TYPE-C-31-M-12
 
 
 0
 16
 13
-georgs_lib
+libraries
 HRO_TYPE-C-31-M-12
 
 
 0
 16
 16
-georgs_lib
+libraries
 SK12D07VG4_slider
 
 
 0
 5
 5
-georgs_lib
+libraries
 SOP28 tm1638
 
 
 0
 28
 28
-georgs_lib
+libraries
 STM32L072CBT6
 
 
 0
 48
 48
-georgs_lib
+libraries
 aa battery holder
 
 
 0
 2
 2
-georgs_lib
+libraries
 creeping
 
 
 0
 0
 0
-georgs_lib
+libraries
 geo1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
 2
 2
-georgs_lib
+libraries
 geo2.00u_PCB
 Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 2.00u PCB
 0
 2
 2
-georgs_lib
+libraries
 geo2.00u_Vertical_PCB
 Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 2.00u vertical PCB
 0
 2
 2
-georgs_lib
+libraries
 geo_mx_1u_plate
 Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u plate
 0
 2
 2
-georgs_lib
+libraries
 line_signs
 
 
 0
 0
 0
-georgs_lib
+libraries
 line_small
 
 
 0
 0
 0
-georgs_lib
+libraries
 logo
 
 
 0
 0
 0
-georgs_lib
+libraries
+logo_small
+
+
+0
+0
+0
+libraries
 logo_w65
 
 
 0
 0
 0
-georgs_lib
+libraries
 math_signs
 
 
 0
 0
 0
-georgs_lib
+libraries
 rp2040
 
 
 0
 57
 57
-georgs_lib
+libraries
 soy
 
 
 0
 0
 0
-georgs_lib
+libraries
 soy_inverted
 
 
 0
 0
 0
-georgs_lib
+libraries
 ss-1290
 
 
 0
 7
 7
-georgs_lib
+libraries
 usb_c_receptacle_YTC-TC6S-231
 
 
